@@ -7,7 +7,7 @@ This is a very basic visual introduction to the concepts behind a blockchain.
 Get the code:
 
 ```
-git clone https://github.com/anders94/blockchain-demo.git
+git clone https://github.com/ealtili/Blockchain-Demo.git
 ```
 
 Install dependencies:
@@ -33,7 +33,7 @@ http://localhost:3000
 Get the code:
 
 ```
-git clone https://github.com/anders94/blockchain-demo.git
+git clone https://github.com/ealtili/Blockchain-Demo.git
 ```
 
 Run the Docker setup:
