@@ -3,7 +3,7 @@ A web-based demonstration of blockchain concepts.
 
 This is a very basic visual introduction to the concepts behind a blockchain. 
 
-BlockDemo.py is a simple BlockChain Demo written in Python 3.* 
+## BlockDemo.py is a simple BlockChain Demo written in Python 3.* 
 
 Class Block defining Block Structure
 
