@@ -210,5 +210,5 @@ Point a web browser at the demo:
 http://localhost:3000
 ```
 
-## Send Thanks
+## Thanks
 Anders Brownworth, Parth Joshi
